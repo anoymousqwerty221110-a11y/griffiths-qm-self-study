@@ -1,4 +1,4 @@
-# griffiths-qm-self-study
+# griffiths-qm-self-study.
 Handwritten notes, derivations, and problem sets from my independent study of David J. Griffiths' Introduction to Quantum Mechanics.
 <img width="2470" height="3923" alt="DocScanner 27 Jun 2026 7-26 pm_1" src="https://github.com/user-attachments/assets/e310d636-77d9-4a22-8b2e-6c556fdc7904" />
 <img width="2224" height="3569" alt="DocScanner 27 Jun 2026 7-26 pm_1(4)" src="https://github.com/user-attachments/assets/1d0e0ae9-a91c-413f-a5ff-2219933b1d83" />

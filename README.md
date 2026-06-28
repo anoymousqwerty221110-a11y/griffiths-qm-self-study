@@ -1,29 +1,53 @@
 # Griffiths Quantum Mechanics Self-Study
 
-Handwritten notes, mathematical derivations, and problem sets from my independent study of David J. Griffiths' *Introduction to Quantum Mechanics*.
+Handwritten archives, rigorous mathematical derivations, and conceptual text summaries from an independent study of David J. Griffiths' *Introduction to Quantum Mechanics*.
 
-## 📌 Repository Overview
-This repository serves as a chronological log of my independent academic progression through advanced physics. Every entry features complete analytical derivations and structural notes to document my rigorous conceptual understanding.
+## 📌 Repository Architecture & Navigation
 
----
+This repository functions as a verifiable, machine-readable ledger documenting advanced academic progression through quantum mechanics. The repository is organized hierarchically by artifact type:
 
-## 📖 Chapter 1: The Wave Function
-
-### Section 1.1: The Schrödinger Equation
-*Mathematical foundations, probability density conservation, and early analytical frameworks.*
-
-#### Lecture Notes & Analytical Derivations
-![Page 1](https://private-user-images.githubusercontent.com/296880093/614103969-e310d636-77d9-4a22-8b2e-6c556fdc7904.jpg)
-![Page 2](https://private-user-images.githubusercontent.com/296880093/614103946-1d0e0ae9-a91c-413f-a5ff-2219933b1d83.jpg)
-![Page 3](https://private-user-images.githubusercontent.com/296880093/614103927-a89e25e0-ca9e-4b91-8cf0-389f0ac9ea91.jpg)
-![Page 4](https://private-user-images.githubusercontent.com/296880093/614103893-d12b44d4-217d-4aca-93aa-eaf202376531.jpg)
-![Page 5](https://private-user-images.githubusercontent.com/296880093/614103871-90889c75-0327-4fef-827e-9b043ca4d008.jpg)
+*   **`/derivations/`**: Pure math LaTeX source files proving foundational theorems from absolute scratch.
+*   **`/summaries/`**: Theoretical summaries and conceptual breakdowns mapping physical insights.
+*   **`/archives/`**: Full chronological scans of handwritten notebook proofs across 5 targeted chapters.
 
 ---
 
-## 🛠️ Progression Roadmap
-- [x] Chapter 1: The Wave Function *(Completed)*
-- [ ] Chapter 2: Time-Independent Schrödinger Equation *(In Progress)*
-- [ ] Chapter 3: Formalism
+## 📐 Top-Tier Mathematical Derivations (\LaTeX)
+
+The following source files contain complete, non-abbreviated analytical derivations:
+
+*   **Chapter 1: The Wave Function**
+    *   [`ch1_probability_conservation.tex`](./derivations/ch1_probability_conservation.tex): Explicit derivation of $\frac{d}{dt} \int_{-\infty}^{\infty} |\Psi(x,t)|^2 dx = 0$ invoking the time-dependent Schrödinger equation and integration by parts.
+*   **Chapter 2: The Time-Independent Schrödinger Equation**
+    *   [`ch2_infinite_square_well.tex`](./derivations/ch2_infinite_square_well.tex): Calculation of boundary condition matching, normalization constants ($A = \sqrt{2/a}$), and energy eigenvalues ($E_n = \frac{n^2\pi^2\hbar^2}{2ma^2}$).
+
+---
+
+## 📖 Chapter summaries & Theoretical Frameworks
+
+*   **Chapter 1**: Physical interpretation of the wave function, statistical variance, and expectation values $\langle x \rangle$ and $\langle p \rangle$.
+*   **Chapter 2**: Stationary states, orthogonality, completeness, and algebraic ladder operator methods for the Harmonic Oscillator.
+*   **Chapter 3**: Formalism – Hilbert space, Hermitian operators, Dirac notation, and generalized statistical interpretation.
+*   **Chapter 4**: Quantum Mechanics in Three Dimensions – Spherical coordinates, angular momentum, and the Hydrogen atom.
+*   **Chapter 5**: Identical Particles – Two-particle systems, bosons and fermions, and the Pauli exclusion principle.
+
+---
+
+## 🗄️ Handwritten Notes Archive
+
+*   [View Complete Chapter 1 Archive (Pages 1–15)](./archives/chapter1_notes.pdf)
+*   [View Complete Chapter 2 Archive (In Progress)](./archives/chapter2_notes.pdf)
+
+---
+
+## 🛠️ Progression Ledger
+
+- [x] **Chapter 1: The Wave Function** (Derivations typeset, handwritten logs archived)
+- [/] **Chapter 2: Time-Independent Schrödinger Equation** (Typeset derivations pending upload)
+- [ ] **Chapter 3: Formalism** (Reading phase)
+- [ ] **Chapter 4: Quantum Mechanics in 3D** (Planned)
+- [ ] **Chapter 5: Identical Particles** (Planned)
+
+
 
 

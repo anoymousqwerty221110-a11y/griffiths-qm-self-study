@@ -36,12 +36,13 @@ The following source files contain complete, non-abbreviated analytical derivati
 ## 🗄 Handwritten Notes Archive
 
 *   **Chapter 1 Notes (Pages 1–15):**
-    *   [Page Group 1](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1.pdf)
-    *   [Page Group 2](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(1).pdf)
-    *   [Page Group 3](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(2).pdf)
-    *   [Page Group 4](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(3).pdf)
-    *   [Page Group 5](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(4).pdf)
+    *   [View Page Group 1](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1.pdf)
+    *   [View Page Group 2](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(1).pdf)
+    *   [View Page Group 3](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(2).pdf)
+    *   [View Page Group 4](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(3).pdf)
+    *   [View Page Group 5](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(4).pdf)
 *   [View Complete Chapter 2 Archive (In Progress)](#)
+
 
 
 ---

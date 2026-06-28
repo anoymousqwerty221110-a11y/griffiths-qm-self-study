@@ -45,9 +45,7 @@ The following source files contain complete, non-abbreviated analytical derivati
     *   [View Page Group 3]("https://github.com/user-attachments/assets/164d6a13-5122-44ed-9e4f-bc25d767efbc"
 )
     *   [View Page Group 4]("https://github.com/user-attachments/assets/12e4dcac-167d-45dc-800a-70a9fc40163e")
-    *   [View Page Group 5](
-"https://github.com/user-attachments/assets/c9caf8e9-cad2-4c6e-b785-79858e852e4c"
-)
+    *   [View Page Group 5]("https://github.com/user-attachments/assets/c9caf8e9-cad2-4c6e-b785-79858e852e4c")
 *   [View Complete Chapter 2 Archive (In Progress)](#)
 
 

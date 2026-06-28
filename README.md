@@ -38,11 +38,16 @@ The following source files contain complete, non-abbreviated analytical derivati
 ## 🗄 Handwritten Notes Archive
 
 *   **Chapter 1 Notes (Pages 1–15):**
-    *   [View Page Group 1](https://github.com)
-    *   [View Page Group 2](https://github.com)
-    *   [View Page Group 3](https://github.com)
-    *   [View Page Group 4](https://github.com)
-    *   [View Page Group 5](https://github.com)
+    *   [View Page Group 1]("https://github.com/user-attachments/assets/22e02fb6-eee3-4856-ab26-5aec1cd0226a"
+)
+    *   [View Page Group 2]("https://github.com/user-attachments/assets/10c0d932-2d43-4afa-9400-49bacb31965a"
+)
+    *   [View Page Group 3]("https://github.com/user-attachments/assets/164d6a13-5122-44ed-9e4f-bc25d767efbc"
+)
+    *   [View Page Group 4]("https://github.com/user-attachments/assets/12e4dcac-167d-45dc-800a-70a9fc40163e")
+    *   [View Page Group 5](
+"https://github.com/user-attachments/assets/c9caf8e9-cad2-4c6e-b785-79858e852e4c"
+)
 *   [View Complete Chapter 2 Archive (In Progress)](#)
 
 

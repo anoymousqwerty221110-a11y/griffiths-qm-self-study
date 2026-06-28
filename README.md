@@ -33,15 +33,16 @@ The following source files contain complete, non-abbreviated analytical derivati
 
 ---
 
-## 🗄️ Handwritten Notes Archive
+## 🗄 Handwritten Notes Archive
 
-*   [View Complete Chapter 1 Archive (Pages 1–15)](./archives/chapter1_notes.pdf)<img width="2470" height="3923" alt="DocScanner 27 Jun 2026 7-26 pm_1" src="https://github.com/user-attachments/assets/d440037e-6df1-4047-b7c3-2f58ef6e2ff3" />
-<img width="2224" height="3569" alt="DocScanner 27 Jun 2026 7-26 pm_1(4)" src="https://github.com/user-attachments/assets/c94bae43-34a2-40a1-baf2-50c414da8b45" />
-<img width="2310" height="3689" alt="DocScanner 27 Jun 2026 7-26 pm_1(3)" src="https://github.com/user-attachments/assets/6a05226e-d259-4241-ac6f-4cd2baa2fe5e" />
-<img width="2194" height="3442" alt="DocScanner 27 Jun 2026 7-26 pm_1(2)" src="https://github.com/user-attachments/assets/0b86258b-cc42-4101-a4ad-645447578630" />
-<img width="2519" height="3876" alt="DocScanner 27 Jun 2026 7-26 pm_1(1)" src="https://github.com/user-attachments/assets/f1261a5b-6261-492b-9c88-d237f0571df6" />
+*   **Chapter 1 Notes (Pages 1–15):**
+    *   [Page Group 1](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1.pdf)
+    *   [Page Group 2](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(1).pdf)
+    *   [Page Group 3](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(2).pdf)
+    *   [Page Group 4](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(3).pdf)
+    *   [Page Group 5](./archives/DocScanner%2027%20Jun%202026%207-26%20pm_1(4).pdf)
+*   [View Complete Chapter 2 Archive (In Progress)](#)
 
-*   [View Complete Chapter 2 Archive (In Progress)](./archives/chapter2_notes.pdf)
 
 ---
 

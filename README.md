@@ -34,10 +34,11 @@ The following source files contain complete, non-abbreviated analytical derivati
 ---
 
 ## 🗄 Handwritten Notes Archive
+![3D Quantum Wave Function Spiral](wave_packet_3d.gif)
+
 
 - **Chapter 1 Notes (Pages 1–15):**
-![3D Quantum Wave Function Spiral](wave_packet_3d.gif)
- - [View Page Group 1](./page1ch.1.jpg)
+-  - [View Page Group 1](./page1ch.1.jpg)
     - [View Page Group 2](./page2.ch1.jpg)
     - [View Page Group 3](./page3ch1.jpg)
     - [View Page Group 4](./page4ch1.jpg)

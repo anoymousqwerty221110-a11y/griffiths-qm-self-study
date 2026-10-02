@@ -37,7 +37,7 @@ The following source files contain complete, non-abbreviated analytical derivati
 ![3D Quantum Wave Function Spiral](wave_packet_3d.gif)
 
 
-- **Chapter 1 Notes (Pages 1–15):**
+- **Chapter 1 Notes (Pages 1–10):**
 -  - [View Page Group 1](./page1ch.1.jpg)
     - [View Page Group 2](./page2.ch1.jpg)
     - [View Page Group 3](./page3ch1.jpg)
@@ -48,7 +48,45 @@ The following source files contain complete, non-abbreviated analytical derivati
     - [View Page Group 8](./page8ch1.jpg)
     - [View Page Group 9](./page9ch1.jpg)
     - [View Page Group 10](./page10ch1.jpg)
-- [View Complete Chapter 2 Archive (In Progress)](#)
+
+-- **Chapter 1 Notes (Pages 1–10):**
+ - [View Page Group 1](./page1ch2.jpg)
+ - [View Page Group 2](./page2ch2.jpg)
+ - [View Page Group 3](./page3ch2.jpg)
+ - [View Page Group 4](./page4ch2.jpg)
+ - [View Page Group 5](./page5ch2.jpg)
+ - [View Page Group 6](./page6ch2.jpg)
+ - [View Page Group 7](./page7ch2.jpg)
+ - [View Page Group 8](./page8ch2.jpg)
+ - [View Page Group 9](./page9ch2.jpg)
+ - [View Page Group 10](./page10ch2.jpg)
+ - [View Page Group 11](./page11ch2.jpg)
+ - [View Page Group 12](./page12ch2.jpg)
+ - [View Page Group 13](./page13ch2.jpg)
+ - [View Page Group 14](./page14ch2.jpg)
+ - [View Page Group 15](./page15ch2.jpg)
+ - [View Page Group 16](./page16ch2.jpg)
+ - [View Page Group 17](./page17ch2.jpg)
+ - [View Page Group 18](./page18ch2.jpg)
+ - [View Page Group 19](./page19ch2.jpg)
+ - [View Page Group 20](./page20ch2.jpg)
+ - [View Page Group 21](./page21ch2.jpg)
+ - [View Page Group 22](./page22ch2.jpg)
+ - [View Page Group 23](./page23ch2.jpg)
+ - [View Page Group 24](./page24ch2.jpg)
+ - [View Page Group 25](./page25ch2.jpg)
+ - [View Page Group 26](./page26ch2.jpg)
+ - [View Page Group 27](./page27ch2.jpg)
+ - [View Page Group 28](./page28ch2.jpg)
+ - [View Page Group 29](./page29ch2.jpg)
+ - [View Page Group 30](./page30ch2.jpg)
+ - [View Page Group 31](./page31ch2.jpg)
+ - [View Page Group 32](./page32ch2.jpg)
+ - [View Page Group 33](./page33ch2.jpg)
+ - [View Page Group 34](./page34ch2.jpg)
+ - [View Page Group 35](./page35ch2.jpg)
+ - 
+
 
 
 
@@ -57,7 +95,7 @@ The following source files contain complete, non-abbreviated analytical derivati
 ## 🛠️ Progression Ledger
 
 - [x] **Chapter 1: The Wave Function** (Derivations typeset, handwritten logs archived)
-- [/] **Chapter 2: Time-Independent Schrödinger Equation** (Typeset derivations pending upload)
+- [x] **Chapter 2: Time-Independent Schrödinger Equation** (handwritten logs archived)
 - [ ] **Chapter 3: Formalism** (Reading phase)
 - [ ] **Chapter 4: Quantum Mechanics in 3D** (Planned)
 - [ ] **Chapter 5: Identical Particles** (Planned)

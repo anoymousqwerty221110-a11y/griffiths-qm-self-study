@@ -1,10 +1,10 @@
 # Griffiths Quantum Mechanics Self-Study
 
-Handwritten archives, rigorous mathematical derivations, and conceptual text summaries from an independent study of David J. Griffiths' *Introduction to Quantum Mechanics*.
+Handwritten archives,  mathematical derivations, and conceptual text summaries from an independent study of David J. Griffiths' *Introduction to Quantum Mechanics*.
 
 ## 📌 Repository Architecture & Navigation
 
-This repository functions as a verifiable, machine-readable ledger documenting advanced academic progression through quantum mechanics. The repository is organized hierarchically by artifact type:
+This repository functions as a verifiable,  documenting academic progression through quantum mechanics. The repository is organized hierarchically by artifact type:
 
 *   **`/derivations/`**: Pure math LaTeX source files proving foundational theorems from absolute scratch.
 *   **`/summaries/`**: Theoretical summaries and conceptual breakdowns mapping physical insights.

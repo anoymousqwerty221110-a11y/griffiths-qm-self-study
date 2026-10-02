@@ -49,7 +49,7 @@ The following source files contain complete, non-abbreviated analytical derivati
     - [View Page Group 9](./page9ch1.jpg)
     - [View Page Group 10](./page10ch1.jpg)
 
--- **Chapter 1 Notes (Pages 1–10):**
+-- **Chapter 2 Notes (Pages 1–35):**
  - [View Page Group 1](./page1ch2.jpg)
  - [View Page Group 2](./page2ch2.jpg)
  - [View Page Group 3](./page3ch2.jpg)

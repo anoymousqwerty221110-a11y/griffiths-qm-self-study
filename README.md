@@ -12,9 +12,9 @@ This repository functions as a verifiable,  documenting academic progression thr
 
 ---
 
-## 📐 Top-Tier Mathematical Derivations (\LaTeX)
+## 📐 Mathematical Derivations (\LaTeX)
 
-The following source files contain complete, non-abbreviated analytical derivations:
+The following source files contain complete,  derivations:
 
 *   **Chapter 1: The Wave Function**
     *   [`ch1_probability_conservation.tex`](Wave_function_normalisation.pdf): Explicit derivation of $\frac{d}{dt} \int_{-\infty}^{\infty} |\Psi(x,t)|^2 dx = 0$ invoking the time-dependent Schrödinger equation and integration by parts.

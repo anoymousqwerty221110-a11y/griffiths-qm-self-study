@@ -12,9 +12,9 @@ This repository tracks my personal self-study journey through David J. Griffiths
 
 The following source files contain complete,  derivations:
 
-*   **Chapter 1: The Wave Function**
+*   **Chapter 1: The Wave Function**Uploading soon
     *   [`ch1_probability_conservation.tex`](Wave_function_normalisation.pdf): derivation of $\frac{d}{dt} \int_{-\infty}^{\infty} |\Psi(x,t)|^2 dx = 0$ invoking the time-dependent Schrödinger equation and integration by parts.
-*   **Chapter 2: The Time-Independent Schrödinger Equation**
+*   **Chapter 2: The Time-Independent Schrödinger Equation**Uploading soon
     *   [`ch2_infinite_square_well.tex`](./derivations/ch2_infinite_square_well.tex): Calculation of boundary condition matching, normalization constants ($A = \sqrt{2/a}$), and energy eigenvalues ($E_n = \frac{n^2\pi^2\hbar^2}{2ma^2}$).
 
 ---

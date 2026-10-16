@@ -1,14 +1,10 @@
 # Griffiths Quantum Mechanics Self-Study
 
-Handwritten archives,  mathematical derivations, and conceptual text summaries from an independent study of David J. Griffiths' *Introduction to Quantum Mechanics*.
+This repository tracks my personal self-study journey through David J. Griffiths' *Introduction to Quantum Mechanics*. I am currently an **11th-grade student** learning the foundational calculus, linear algebra, and statistical mechanics required to understand quantum states.
 
-## 📌 Repository Architecture & Navigation
-
-This repository functions as a verifiable,  documenting academic progression through quantum mechanics. The repository is organized hierarchically by artifact type:
-
-*   **`/derivations/`**: Pure math LaTeX source files proving foundational theorems from absolute scratch.
-*   **`/summaries/`**: Theoretical summaries and conceptual breakdowns mapping physical insights.
-*   **`/archives/`**: Full chronological scans of handwritten notebook proofs across 5 targeted chapters.
+## 📌 Repository Contents
+* **Handwritten Logs:** Scanned notebook pages showing raw derivations, boundary matching, and problem-solving attempts.
+* **Progress Track:** A realistic record of my conceptual breakthroughs, errors, and current study focus..
 
 ---
 
@@ -17,7 +13,7 @@ This repository functions as a verifiable,  documenting academic progression thr
 The following source files contain complete,  derivations:
 
 *   **Chapter 1: The Wave Function**
-    *   [`ch1_probability_conservation.tex`](Wave_function_normalisation.pdf): Explicit derivation of $\frac{d}{dt} \int_{-\infty}^{\infty} |\Psi(x,t)|^2 dx = 0$ invoking the time-dependent Schrödinger equation and integration by parts.
+    *   [`ch1_probability_conservation.tex`](Wave_function_normalisation.pdf): derivation of $\frac{d}{dt} \int_{-\infty}^{\infty} |\Psi(x,t)|^2 dx = 0$ invoking the time-dependent Schrödinger equation and integration by parts.
 *   **Chapter 2: The Time-Independent Schrödinger Equation**
     *   [`ch2_infinite_square_well.tex`](./derivations/ch2_infinite_square_well.tex): Calculation of boundary condition matching, normalization constants ($A = \sqrt{2/a}$), and energy eigenvalues ($E_n = \frac{n^2\pi^2\hbar^2}{2ma^2}$).
 
@@ -101,6 +97,9 @@ The following source files contain complete,  derivations:
 - [ ] **Chapter 4: Quantum Mechanics in 3D** (Planned)
 - [ ] **Chapter 5: Identical Particles** (Planned)
 
+
+
+*Note: I do not have formal university training. This repository serves as an honest archive of my learning process, including my mistakes and corrections along the way.*
 
 
 
